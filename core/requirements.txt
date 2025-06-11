@@ -1,5 +1,0 @@
-flask
-mediapipe
-numpy
-Pillow
-gunicorn
